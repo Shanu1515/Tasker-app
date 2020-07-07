@@ -1,7 +1,7 @@
 # Tasker 😃 <img src="https://github.com/newtonmunene99/tasker/blob/master/assets/images/logo.png" width="50px">
 
 
-A simple todo app built with flutter.
+
 
 | Screenshot                                                                       | Screenshot                                                                       | Screenshot                                                                       |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
@@ -34,10 +34,6 @@ A simple todo app built with flutter.
 - [ ] Publish to play store
 - [ ] Redesign ui to custom design. (Not following Material/Cupertino)
 
-## Icon/Logo
-
-1. Replace `assets/images/logo.png` with your own.
-2. Run `flutter pub pub run flutter_launcher_icons:main` to generate platform specific icons.
 
 -----------------------------------------------------------------
 A few resources to get you started if this is your first Flutter project:
