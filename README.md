@@ -1,4 +1,4 @@
-# Tasker 😃 <img src="https://github.com/newtonmunene99/tasker/blob/master/assets/images/logo.png" width="50px">
+# Tasker <img src="https://github.com/Shanu1515/Tasker-app/blob/master/assets/images/tasklogo.png" width="100px">
 
 
 
@@ -9,11 +9,33 @@
 | <img src="https://github.com/newtonmunene99/tasker/blob/master/Screenshot4.png"> | <img src="https://github.com/newtonmunene99/tasker/blob/master/Screenshot5.png"> | <img src="https://github.com/newtonmunene99/tasker/blob/master/Screenshot6.png"> |
 | ------------------------------                                                   | ------------------------------                                                   | ------------------------------                                                   |
 
+APK available at: https://tinyurl.com/Tasker-app
+
 ## Getting Started
 
-1. `flutter create -a kotlin --androidx --org com.yourdomainname .` if android/ios folders aren't present.
-2. `flutter packages get`
-3. `flutter run`
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/Shanu1515/Tasker-app.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+**Step 3:**
+
+Use the following command to run your Flutter app on a connected device or simulator.
+
+```
+flutter run
+```
 
 ## Concepts
 
@@ -33,6 +55,8 @@
 - [ ] Option to edit tags
 - [ ] Publish to play store
 - [ ] Redesign ui to custom design. (Not following Material/Cupertino)
+
+
 
 
 -----------------------------------------------------------------
